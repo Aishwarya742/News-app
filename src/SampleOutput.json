@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": null
+      },
+      "author": "Fortune",
+      "title": "Nvidia stock loses $280 billion in value as it confronts the antitrust police - Fortune",
+      "description": null,
+      "url": "httpr",
+      "urlToImage": null,
+      "publishedAt": "2024-09-04T10:23:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Angus Berwick, WSJ Staff, Heard Editors",
+      "title": "Stock Market Today: What to Watch - The Wall Street Journal",
+      "description": "Follow along for live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-09-04-2024",
+      "urlToImage": "https://images.wsj.net/im-925349/social",
+      "publishedAt": "2024-09-04T10:00:00Z",
+      "content": "Investors are nervous after Tuesday's selloff, with U.S. stock futures falling and markets in Asia and Europe on the retreat.\r\nGlobal chip stocks skidded early Wednesday, after a selloff in Nvidia th… [+969 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Axios",
+      "title": "Trump loses bid to move hush money case from New York to federal court - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2024/09/03/trump-hush-money-case-new-york-federal-court",
+      "urlToImage": null,
+      "publishedAt": "2024-09-04T09:45:39Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Kosta Gak, Alex Stambaugh, Helen Regan, Ivana Kottasová",
+      "title": "Ukraine’s foreign minister tenders resignation ahead of expected cabinet reshuffle as Russian missiles kill at least 7 - CNN",
+      "description": "Ukraine’s Foreign Minister Dmytro Kuleba became the latest top official to tender his resignation on Wednesday, ahead of an expected major government reshuffle as yet another wave of Russian attacks overnight killed at least seven people, including a child.",
+      "url": "https://www.cnn.com/2024/09/04/europe/ukraine-foreign-minister-kuleba-resigns-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2168226157.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-09-04T09:28:00Z",
+      "content": "Ukraines Foreign Minister Dmytro Kuleba became the latest top official to tender his resignation on Wednesday, ahead of an expected major government reshuffle as yet another wave of Russian attacks o… [+7110 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "Concord Players Are Jumping Off Cliffs In-Game as They Desperately Grind for the Platinum Trophy Before Shutdown - IGN",
+      "description": "Sony’s shock announcement of Concord’s shutdown just two weeks after it went on sale has sent what players the game has remaining into overdrive as they desperately try to secure its Platinum trophy before it’s too late.",
+      "url": "https://www.ign.com/articles/concord-players-are-jumping-off-cliffs-in-game-as-they-desperately-grind-for-the-platinum-trophy-before-shutdown",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/08/24/concordign-1724475336245.jpg?width=1280",
+      "publishedAt": "2024-09-04T08:48:21Z",
+      "content": "Sonys shock announcement of Concords shutdown just two weeks after it went on sale has sent its remaining players into overdrive as they desperately try to secure its Platinum trophy before its too l… [+3476 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Christopher Cann",
+      "title": "NASA says 'pulsing sound' inside Boeing Starliner has stopped, won't impact slated return - USA TODAY",
+      "description": "NASA said in a statement that the mysterious noise heard aboard the Boeing Starliner aircraft has stopped and won't impact its return flight.",
+      "url": "https://www.usatoday.com/story/news/nation/2024/09/02/boeing-starliner-noise-nasa-astronaut/75045935007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/07/11/USAT/74362459007-2159726082.jpg?crop=3499,1968,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2024-09-04T08:39:37Z",
+      "content": "A mysterious sound heard emanating from the Boeing Starliner spacecraft has been identified as feedback from a speaker, NASA said in a statement Monday, assuring the capsule's autonomous flight back … [+3082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Donald Trump ordered to stop using Isaac Hayes' music at his rallies - BBC.com",
+      "description": "A judge says Trump must stop playing Hold On I'm Coming, while a permanent injunction is considered.",
+      "url": "https://www.bbc.com/news/articles/c89w28w13zxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a08c/live/fd566890-6a93-11ef-a788-4d91a3630157.jpg",
+      "publishedAt": "2024-09-04T08:23:32Z",
+      "content": "Isaac Hayes is known for hits like Shaft, Walk On By and I Stand Accused\r\nA US judge has ordered Donald Trump's campaign to stop using the song Hold On, Im Coming at his rallies, in response to a law… [+3402 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sophie Kiderlin, Sam Meredith",
+      "title": "Volkswagen flags lower sales as labor unions protest potential plant closures - CNBC",
+      "description": "Management at German automotive giant Volkswagen is set to go toe-to-toe with workers on Wednesday as leaders are set to present details about possible cuts.",
+      "url": "https://www.cnbc.com/2024/09/04/volkswagen-to-face-tense-townhall-as-workers-battle-possible-plant-closures.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108028879-1725439162963-gettyimages-2169526872-AFP_36FF4GT.jpeg?v=1725439213&w=1920&h=1080",
+      "publishedAt": "2024-09-04T08:08:10Z",
+      "content": "Employees of German car maker Volkswagen (VW) protest at the start of a company's general meeting in Wolfsburg, northern Germany, on September 4, 2024.\r\nVolkswagen's management went toe-to-toe with w… [+5204 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "US charges Hamas leadership over 7 October attack on Israel - BBC.com",
+      "description": "The indictment highlights the killing of US citizens, though analysts say the charges are partly symbolic.",
+      "url": "https://www.bbc.com/news/articles/c9wj285xyp8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fd9e/live/15f24b70-6a3b-11ef-a7d6-79d10b74e945.jpg",
+      "publishedAt": "2024-09-04T07:52:11Z",
+      "content": "The US has charged Hamas leader Yahya Sinwar and several other prominent figures in the Palestinian group in connection with its deadly attack in Israel on 7 October last year.\r\nThe justice departmen… [+4367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Jacki Thrapp",
+      "title": "Fans slam ABC for making the Bachelorette watch her propose to ex-fiancé on live TV after he dumped and “ghosted” her - New York Post ",
+      "description": "Fans are furious that “The Bachelorette’s” Jenn Tran was forced to watch her proposal to Devin Strader on live television Tuesday night nearly one month after he ended their engag…",
+      "url": "https://nypost.com/2024/09/04/entertainment/fans-slam-abc-for-making-the-bachelorette-watch-her-propose-to-ex-fiance-on-live-tv-after-he-dumped-and-ghosted-her/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/88898738.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-09-04T07:39:00Z",
+      "content": "Fans are furious that “The Bachelorette’s” Jenn Tran was forced to watch her proposal to Devin Strader on live television Tuesday night nearly one month after he ended their engagement in a 15-minute… [+3733 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Alden Gonzalez",
+      "title": "Ohtani thankful after 'special' return to Anaheim - ESPN",
+      "description": "Los Angeles star Shohei Ohtani was welcomed back warmly in his first official game back in Anaheim, California, save for some sparse boos along the way, during the first-place Dodgers' 6-2 victory over the Los Angeles Angels on Tuesday night.",
+      "url": "https://www.espn.com/mlb/story/_/id/41116791/dodgers-star-shohei-ohtani-welcomed-back-warmly-anaheim",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0904%2Fr1381747_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-09-04T06:14:00Z",
+      "content": "ANAHEIM, Calif. -- When he prepared for his first at-bat in Tuesday's top of the first, fans saluted him with a standing ovation. When he roped a line drive down the right-field line two innings late… [+4312 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Linda Sun: A Ferrari, a Honolulu hideaway, salted duck - top NY official allegedly spied for China - BBC.com",
+      "description": "US officials say China lavished Linda Sun with money and perks including meals prepared by a personal chef.",
+      "url": "https://www.bbc.com/news/articles/cgl23xlrzp2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/571d/live/8592c760-6a7d-11ef-b970-9f202720b57a.jpg",
+      "publishedAt": "2024-09-04T05:42:27Z",
+      "content": "A top New York state government aide secretly helped the Chinese government access an official call about Covid-19 while enjoying a lavish lifestyle as an undercover agent for Beijing, according to a… [+4570 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AZCentral"
+      },
+      "author": "Rey Covarrubias Jr.",
+      "title": "Phoenix officer critically wounded, another injured in central Phoenix shooting - The Arizona Republic",
+      "description": "Phoenix police said two officers were injured, one critically, in a shooting near 16th Street and McDowell Road.",
+      "url": "https://www.azcentral.com/story/news/local/phoenix/2024/09/03/2-phoenix-police-officers-wounded/75065779007/",
+      "urlToImage": "https://www.azcentral.com/gcdn/authoring/authoring-images/2024/09/04/PPHX/75066477007-ppd-3.JPG?crop=5009,2819,x0,y260&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2024-09-04T05:37:30Z",
+      "content": "A Phoenix police officer was in critical condition after he and his partner were shot by a person they suspected of a car break-in in central Phoenix, authorities said.\r\nOne officer was fighting for … [+2284 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Scott Dance",
+      "title": "Why landslides are suddenly tearing homes apart in Southern California - The Washington Post",
+      "description": "Landslides have damaged or destroyed homes atop Palos Verdes’s picturesque bluffs, and threaten hundreds of them.",
+      "url": "https://www.washingtonpost.com/weather/2024/09/03/california-landslides-rancho-palos-verdes/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZI6DT7DPHRASRC2GXPSQRWDC4I.jpg&w=1440",
+      "publishedAt": "2024-09-04T05:27:45Z",
+      "content": "The Southern California community of Rancho Palos Verdeshas always been as vulnerable as it is scenic.\r\nLand beneath the city of 42,000 people has been slowly crumbling since long before multimillion… [+6076 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "NICOLE WINFIELD, EDNA TARIGAN",
+      "title": "In Asia, pope urges Indonesia to live up to promise of ‘harmony in diversity,’ fight extremism - The Associated Press",
+      "description": "Pope Francis has urged Indonesia to live up to its promise of “harmony in diversity” and fight religious intolerance. Francis had a packed first full day in Indonesia, meeting with outgoing President Joko Widodo and Indonesian authorities at the presidential …",
+      "url": "https://apnews.com/article/pope-francis-visit-indonesia-asia-05c710ad993231bd8840c75f959f2b05",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8d0a8f3/2147483647/strip/true/crop/2884x1622+0+173/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2Fba%2F692db16f4cb49c040c6695b59742%2Fea66ddac76dd4cec8c76cc3497c3bcb5",
+      "publishedAt": "2024-09-04T04:11:00Z",
+      "content": "JAKARTA, Indonesia (AP) Pope Francis urged Indonesia to live up to its promise of harmony in diversity and fight religious intolerance on Wednesday, as he set a rigorous pace for an 11-day, four-nati… [+6602 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Sally Brompton",
+      "title": "Your daily horoscope: September 4 - The Globe and Mail",
+      "description": "Your daily horoscope",
+      "url": "https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-september-4-6/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/U5TPCH7TMBG2FAF6463KGMHHGY.png?auth=ef792eb9bee4c8107e033dc830aa01f6cdd55811c51a559726bc2d115d014d2d&width=1200&height=801&quality=80&smart=true",
+      "publishedAt": "2024-09-04T04:01:00Z",
+      "content": "Open this photo in gallery:Virgo.iStockPhoto / Getty Images\r\nHOROSCOPES IF TODAY IS YOUR BIRTHDAY\r\nYou have done more than enough thinking and more than enough planning now you must take action on th… [+3414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Deutsche Welle",
+      "title": "Ukraine updates: Russia launches fresh strikes on Kyiv, Lviv - DW (English)",
+      "description": "Ukraine's military reported another wave of Russian drone and missile attacks amid an uptick in fighting. The region of Poltava declared three days of mourning after Russian strikes killed dozens. DW has the latest.",
+      "url": "https://www.dw.com/en/ukraine-updates-russia-launches-fresh-strikes-on-kyiv-lviv/live-70126333",
+      "urlToImage": "https://static.dw.com/image/70127997_6.jpg",
+      "publishedAt": "2024-09-04T03:50:39Z",
+      "content": "A former Ukrainian diplomat has rejected the notion that Russia's airstrikes on Poltava are a retaliation to Ukraine's incursion into Kursk.\r\nOlexander Scherba, who formerly served as Ukraine's ambas… [+1191 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Lindsey Bahr, Cristina Jaleru",
+      "title": "Luca Guadagnino and Daniel Craig present ‘Queer’ to Venice Film Festival - The Associated Press",
+      "description": "Venice Film Festival regular Luca Guadagnino has returned to the Lido to debut his new Daniel Craig film “Queer” on Tuesday night. Guadagnino is a festival favorite but had to forgo a splashy red carpet premiere for the sexy tennis drama “Challengers” last ye…",
+      "url": "https://apnews.com/article/venice-film-festival-daniel-craig-queer-792f89bb89504150f0f2d1b8d1300cd7",
+      "urlToImage": "https://dims.apnews.com/dims4/default/445dbdb/2147483647/strip/true/crop/3812x2144+0+198/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F84%2F66da073c0d5289dd464ad6a5e56e%2Fe5cf3597436e43309657d05300bccae1",
+      "publishedAt": "2024-09-04T03:48:00Z",
+      "content": "VENICE, Italy (AP) Venice Film Festival regular Luca Guadagnino was back on the Lido to debut his new Daniel Craig film Queer on Tuesday night.\r\nA festival favorite, Guadagnino had to forgo a splashy… [+5274 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "SOPHIA TAREEN",
+      "title": "4 people killed on Chicago-area L train likely didn’t even see the shooter, official says - The Associated Press",
+      "description": "Officials say a man suspected of killing four people aboard a Chicago-area transit train shot them at close range while they were asleep. The shooting happened before 5:30 a.m. Monday aboard the Chicago area’s L system. It happened on a moving Blue Line train…",
+      "url": "https://apnews.com/article/chicago-train-shooting-sleeping-passengers-73f0f37e4e96285f20633fbad9a6aeb3",
+      "urlToImage": "https://dims.apnews.com/dims4/default/3e4580a/2147483647/strip/true/crop/3375x1898+0+175/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F14%2F67%2Fa8dd8a2994cbfde68f507f2bd3a3%2F3277df0bd46643ada5d8bc4306231661",
+      "publishedAt": "2024-09-04T02:26:00Z",
+      "content": "FOREST PARK, Ill. (AP) A man suspected of killing four people aboard a Chicago-area transit train shot them at close range while they were asleep, officials said Tuesday. \r\nThe shooting took place be… [+3144 chars]"
+    }
+  ]
+}
